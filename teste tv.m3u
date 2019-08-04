@@ -1,30 +1,21 @@
-#EXTM3U
- 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="TV ABERTA", GLOBO HD
 https://cdn.multicanais.com/live/globorjhd/2019/08/03/22/56/16-05539.ts
-#EXTINF:5.005,
 
 
 
-#EXTM3U
+
+
  
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="FILMES", TELECINE ACTION
 https://cdn.multicanais.com/live/telecineactionhd/2019/08/03/22/58/33-05000.ts
-#EXTINF:5.000,
 
 
 
 
-#EXTM3U
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="FILMES", TELECINE PIPOCA
 https://cdn.multicanais.com/live/telecinepipocahd/2019/08/03/23/05/40-05004.ts
-#EXTINF:5.004,
-
-
-
-
-
-
 
 
